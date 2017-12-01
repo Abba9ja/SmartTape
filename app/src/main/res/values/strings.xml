@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Smart Tape</string>
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Smart Tape</string>
+    <string name="slide_1_desc">The app measure distance using sensors through the camera!</string>
+
+    <string name="slide_2_title">Holding potrait</string>
+    <string name="slide_2_desc">Make sure to set the focus of the sensor while holding the phone portrait!</string>
+
+    <string name="slide_3_title">Holding landscape</string>
+    <string name="slide_3_desc">Tilt the phone until the focus tick good before you start measuting</string>
+
+    <string name="slide_4_title">Start Measuring</string>
+    <string name="slide_4_desc">After setting the focus you can click on start button, to start measuring tilt the phone little towards the measuring direction!</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+    <string name="signed_in_fmt">Hi %s feel free to dive in the Smart Tape settings</string>
+    <string name="developer">Developer</string>
+    <string name="muhammad_shehu_bello_abba9ja">Muhammad Shehu Bello (Abba9ja)</string>
+
+</resources>

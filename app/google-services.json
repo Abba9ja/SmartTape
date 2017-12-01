@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "44277000295",
+    "firebase_url": "https://smart-tape.firebaseio.com",
+    "project_id": "smart-tape",
+    "storage_bucket": "smart-tape.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44277000295:android:d15d961f913eec38",
+        "android_client_info": {
+          "package_name": "com.example.abba9ja.smarttape"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "44277000295-e5sfs97hh8j54q3c9v4ck4bmmfqfedro.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.abba9ja.smarttape",
+            "certificate_hash": "74fed54b82421f55088e94510a65070b38ce4eb2"
+          }
+        },
+        {
+          "client_id": "44277000295-7q8smrhpk409f3fpsjltjljna7t5pi08.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDczGlmpcW6pOHf8ydsy7fd6WW6mfANztA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "44277000295-7q8smrhpk409f3fpsjltjljna7t5pi08.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
